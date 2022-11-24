@@ -48,7 +48,22 @@
 <p align="center">
 <a align="center" href="https://burger-shop-1.netlify.app/">Vue website</a>
 </p>
+
+
 <h5 align="center">Web Design Project -</h5>
+<p align="center">
+<a align="center" href="https://web-business-1.netlify.app/">WEB BUSINESS</a>
+</p>
+<p align="center">
+<a align="center" href="https://noushedul1.github.io/ecommerce_full_2022noushed_responsive/">ECOMMERCE</a>
+</p>
+<p align="center">
+<a align="center" href="https://trizzy.netlify.app/">TRIZZY</a>
+</p>
+<p align="center">
+<a align="center" href="https://noushedul1.github.io/LMS_psd_To_HTML/">LMS</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noushedul1&label=Profile%20views&color=0e75b6&style=flat" alt="noushedul1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noushedul1" alt="noushedul1" /></a> </p>
