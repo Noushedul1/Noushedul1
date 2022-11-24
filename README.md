@@ -31,6 +31,13 @@
 </p>
 
 <h5 align="center">Javascript Project -</h5>
+<p align="center">
+<a align="center" href="https://noushedul1.github.io/dom_todolist/">JS DOM TODO LIST</a>
+</p>
+<p align="center">
+<a align="center" href="https://fetch-api-project2.netlify.app/">JS FETCH API</a>
+</p>
+
 <h5 align="center">Vue 3 Project -</h5>
 <p align="center">
 <a align="center" href="https://firstvuetodoapp.netlify.app/">Vue to do</a>
