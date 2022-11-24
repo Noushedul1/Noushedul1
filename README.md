@@ -11,12 +11,25 @@
 <p align="center">
 <a align="center" href="https://github.com/Noushedul1/php_img_file_upload">PHP IMAGE FILE UPLOAD</a>
 </p>
+
+
 <h5 align="center">LARAVEL 9 Project -</h5>
-<a align="center" href=""></a>
-<a align="center" href=""></a>
-<a align="center" href=""></a>
-<a align="center" href=""></a>
-<a align="center" href=""></a>
+<p align="center">
+<a align="center" href="https://github.com/Noushedul1/lara_crud_project">Laravel CRUD</a>
+</p>
+<p align="center">
+<a align="center" href="https://github.com/Noushedul1/validation_lara">FORM VALIDATION</a>
+</p>
+<p align="center">
+<a align="center" href="https://github.com/Noushedul1/blogpost_lara">BLOG POST PROJECT</a>
+</p>
+<p align="center">
+<a align="center" href="https://github.com/Noushedul1/laravel_addblog">Laravel addblog</a>
+</p>
+<p align="center">
+<a align="center" href="https://github.com/Noushedul1/basic_laravel">LARAVEL BASIC</a>
+</p>
+
 <h5 align="center">Javascript Project -</h5>
 <h5 align="center">Vue 3 Project -</h5>
 <h5 align="center">Web Design Project -</h5>
