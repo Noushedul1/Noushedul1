@@ -27,6 +27,9 @@
 <a align="center" href="https://github.com/Noushedul1/blogpost_lara">BLOG POST PROJECT</a>
 </p>
 <p align="center">
+<a align="center" href="https://github.com/Noushedul1/breeze_blogproject">Breeze Blog Project</a>
+</p>
+<p align="center">
 <a align="center" href="https://github.com/Noushedul1/laravel_addblog">Laravel addblog</a>
 </p>
 <p align="center">
