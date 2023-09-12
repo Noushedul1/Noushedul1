@@ -15,7 +15,9 @@
 
 
 <h5 align="center">LARAVEL 9 Project -</h5>
-
+<p align="center">
+  <a align="center" href="https://github.com/Noushedul1/laravelCustomeAuth">Laravel Custome Authentication</a>
+</p>
 <p align="center">
 <a align="center" href="https://github.com/Noushedul1/biztroxBlogProject">Biztrox Blog Project</a>
 </p>
