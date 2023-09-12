@@ -18,31 +18,6 @@
 <p align="center">
   <a align="center" href="https://github.com/Noushedul1/laravelCustomeAuth">Laravel Custome Authentication</a>
 </p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/biztroxBlogProject">Biztrox Blog Project</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/laravel_sms_project">Laravel SMS Project</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/lara_crud_project">Laravel CRUD</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/validation_lara">FORM VALIDATION</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/blogpost_lara">BLOG POST PROJECT</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/breeze_blogproject">Breeze Blog Project</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/laravel_addblog">Laravel addblog</a>
-</p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/basic_laravel">LARAVEL BASIC</a>
-</p>
-
 
 <h5 align="center">Javascript Project -</h5>
 <p align="center">
