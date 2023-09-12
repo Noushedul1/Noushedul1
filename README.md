@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md.Noushedul Islam</h1>
-<h3 align="center">A passionate PHP Developer</h3>
+<h3 align="center">Laravel Web Developer</h3>
 <h3 align="center">Email: noushedakib@gmail.com</h3>
-<h4 align="center">Project-</h4>
+<h4 align="center">Project-</h4> 
+
+<h5 align="center">LARAVEL 9 Project -</h5>
+<p align="center">
+  <a align="center" href="https://github.com/Noushedul1/laravelCustomeAuth">Laravel Custome Authentication</a>
+</p>
+
 <h5 align="center">PHP Project -</h5>
 <P align="center">
 <a align="center" href="https://github.com/Noushedul1/php_crud_with_search">PHP CRUD WITH SEARCH</a>  
@@ -11,12 +17,6 @@
 </p>
 <p align="center">
 <a align="center" href="https://github.com/Noushedul1/php_img_file_upload">PHP IMAGE FILE UPLOAD</a>
-</p>
-
-
-<h5 align="center">LARAVEL 9 Project -</h5>
-<p align="center">
-  <a align="center" href="https://github.com/Noushedul1/laravelCustomeAuth">Laravel Custome Authentication</a>
 </p>
 
 <h5 align="center">Javascript Project -</h5>
