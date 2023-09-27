@@ -5,7 +5,7 @@
 
 <h5 align="center">LARAVEL 9 Project -</h5>
 <p align="center">
-  <a align="center" href="https://github.com/Noushedul1/multiauthblogproject">Laravel Multiauth Blog (not completed yet)</a>
+  <a align="center" href="https://github.com/Noushedul1/multiauthblogproject">Laravel Multiauth Blog</a>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/Noushedul1/laravelCustomeAuth">Laravel Custom Authentication</a>
