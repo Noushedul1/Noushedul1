@@ -21,9 +21,6 @@
 <p align="center">
 <a align="center" href="https://github.com/Noushedul1/php_multiple_value_insert">PHP MULTIPLE VALUE INSERT</a>
 </p>
-<p align="center">
-<a align="center" href="https://github.com/Noushedul1/php_img_file_upload">PHP IMAGE FILE UPLOAD</a>
-</p>
 
 <h5 align="center">Javascript Project -</h5>
 <p align="center">
