@@ -16,6 +16,9 @@
 <p align="center">
   <a align="center" href="https://github.com/Noushedul1/Admin-Panel">Laravel Admin Panel</a>
 </p>
+<p align="center">
+  <a align="center" href="https://github.com/Noushedul1/laravel-ajaxcrud">Laravel Ajax crud</a>
+</p>
 
 <h5 align="center">PHP Project -</h5>
 <P align="center">
