@@ -19,6 +19,9 @@
 <p align="center">
   <a align="center" href="https://github.com/Noushedul1/laravel-ajaxcrud">Laravel Ajax crud</a>
 </p>
+<p align="center">
+  <a align="center" href="https://github.com/Noushedul1/laravel_email_verification_event_listener_queue">Laravel email,event,listener,queue</a>
+</p>
 
 <h5 align="center">PHP Project -</h5>
 <P align="center">
