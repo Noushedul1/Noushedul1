@@ -5,6 +5,9 @@
 
 <h5 align="center">LARAVEL 9 Project -</h5>
 <p align="center">
+  <a align="center" href="https://github.com/Noushedul1/ecommerce">Spatie Role and Permission</a>
+</p>
+<p align="center">
   <a align="center" href="https://github.com/Noushedul1/ecommerce">Laravel Ecommerce</a>
 </p>
 <p align="center">
